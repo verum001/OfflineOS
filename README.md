@@ -423,3 +423,8 @@ A smartphone should perform the tasks its owner chooses, without unnecessary sof
 **Offline from the first boot. Online when you choose.**
 
 **OfflineOS — Your phone. Your rules.**
+
+
+## Applications
+
+- [Little Calculator](Apps/LittleCalculator): offline calculator with history and unit conversions. [Download test APK](Apps/LittleCalculator/downloads/LittleCalculator-0.1.0-test.apk?raw=true). Early test build; device testing pending.

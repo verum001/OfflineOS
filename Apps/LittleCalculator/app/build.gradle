@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'org.offlineos.calculator'
+    compileSdk 37
+    defaultConfig {
+        applicationId 'org.offlineos.calculator'
+        minSdk 26
+        targetSdk 37
+        versionCode 1
+        versionName '0.1.0'
+    }
+    buildTypes { release { minifyEnabled true; shrinkResources true; proguardFiles getDefaultProguardFile('proguard-android-optimize.txt') } }
+}
