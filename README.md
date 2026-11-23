@@ -1,9 +1,9 @@
 # OfflineOS
 ## Project Manifest & Development Charter
 
-**Slogan:** *Offline from the first boot. Online when you choose.*
+*Offline from the first boot. Online when you choose.*
 
-**Alternative slogan:** *Full control of your Android.*
+*Full control of your Android.*
 
 **Project status:** Concept and initial application-development phase
 
@@ -133,7 +133,7 @@ Potential applications include:
 | Application | Purpose | Network requirement |
 |---|---|---|
 | Little Calculator | Lightweight scientific and standard calculator | None |
-| Pretty Calendar | Minimal personal calendar | None |
+| Little Calendar | Minimal personal calendar | None |
 | Little Notes | Private local notes | None |
 | Little Gallery | Local photo and video gallery | None |
 | Little Recorder | Audio recording | None |
@@ -142,8 +142,9 @@ Potential applications include:
 | Little Launcher | Minimal Android home screen | None |
 | Little Monitor | Network activity monitoring | Depends on implementation |
 | Little Firewall | Per-application network control | Local VPN or elevated system privileges |
-| DataEater | Offline knowledge retrieval and local AI | None for core offline functionality |
+| Little  Agent | Offline knowledge retrieval and local AI | None for core offline functionality |
 
+Names are given for exemple.
 These applications must be individually installable and must not require the entire OfflineOS ecosystem.
 
 Existing projects, such as Pretty Calendar and DataEater, are separate projects that can contribute to this ecosystem without requiring immediate restructuring.
